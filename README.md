@@ -1,2 +1,2 @@
-# chatbot-on-website
-Niên luận ngành: dự án chatbot rasa chạy trên website Joomlart
+# Niên luận ngành: Xây dựng chatbot thông minh hỗ trợ website du lịch Đà Lạt
+Dự án chatbot này là bot rasa chạy trên website Joomlart
